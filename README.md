@@ -19,7 +19,8 @@
 
 </td>
 <td valign="top" width="40%">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bjVxMzBseGw4OXdxNHpxOWZyNmxxamd4ZjV6NTY4Nmw4ZzlpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif
+" width="300"/>
 </td>
 </tr>
 </table>
@@ -44,8 +45,7 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayman-Elmarsfawy&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Elmarsfawy&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Elmarsfawy&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 <br/>

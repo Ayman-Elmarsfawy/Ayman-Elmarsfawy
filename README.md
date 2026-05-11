@@ -19,7 +19,7 @@
 
 </td>
 <td valign="top" width="40%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4bjVxMzBseGw4OXdxNHpxOWZyNmxxamd4ZjV6NTY4Nmw4ZzlpMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300"/>
 </td>
 </tr>
 </table>
@@ -41,6 +41,15 @@
 
 <br/>
 
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayman-Elmarsfawy&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Elmarsfawy&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<br/>
+
 ## 📬 Connect with Me
 
 <p align="center">
@@ -51,5 +60,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=80&section=footer"/>
 </p>

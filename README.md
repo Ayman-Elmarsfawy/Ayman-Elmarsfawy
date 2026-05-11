@@ -19,8 +19,7 @@
 
 </td>
 <td valign="top" width="40%">
-<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif
-" width="300"/>
+<img src="https://media.giphy.com/media/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="300"/>
 </td>
 </tr>
 </table>

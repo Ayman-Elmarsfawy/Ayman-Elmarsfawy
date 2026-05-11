@@ -44,8 +44,7 @@
 ## 📊 My Stats
 
 <p align="center">
-  <img src=["https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Elmarsfawy&theme=radical&hide_border=true
-" width="60%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayman-Elmarsfawy&theme=radical&hide_border=true" width="60%"/>
 </p>
 
 <br/>

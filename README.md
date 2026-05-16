@@ -30,7 +30,7 @@
 
 **🗄️ Data & Databases**
 <p align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,mysql,git,github&theme=dark" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=python,mysql,git&theme=dark" /></a>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
